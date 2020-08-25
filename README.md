@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://storage.googleapis.com/niantic-lon-static/research/rectified-features/short-video.mp4">
-  <img src="assets/2min.png" alt="2 minute ECCV presentation video link" width="400">
+  <img src="assets/1min.png" alt="1 minute ECCV presentation video link" width="400">
   </a>
 </p>
 
