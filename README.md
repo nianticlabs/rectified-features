@@ -1,9 +1,9 @@
-# [Single-Image Depth Prediction Makes Feature Matching Easier](https://arxiv.org/abs/)
+# [Single-Image Depth Prediction Makes Feature Matching Easier](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610460.pdf)
 
 **[Carl Toft](https://scholar.google.com/citations?hl=en&user=vvgmWA0AAAAJ&view_op=list_works&sortby=pubdate), [Daniyar Turmukhambetov](http://dantkz.github.io/about), [Torsten Sattler](https://scholar.google.com/citations?user=jzx6_ZIAAAAJ&hl=en), [Fredrik Kahl](http://www.maths.lth.se/matematiklth/personal/fredrik/) and [Gabriel J. Brostow](http://www0.cs.ucl.ac.uk/staff/g.brostow/) – ECCV 2020**
 
 
-[Link to paper](https://arxiv.org/abs/)  
+[Link to paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610460.pdf)  
   
 
 <p align="center">
@@ -39,7 +39,7 @@ Our pipeline finds planar patches according to estimated depth, and extracts fea
 
 ## ✏️ 📄 Citation
 
-If you find our work useful or interesting, please consider citing [our paper](https://arxiv.org/abs/):
+If you find our work useful or interesting, please consider citing [our paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610460.pdf):
 
 ```
 @inproceedings{toft-2020-rectified-features,
