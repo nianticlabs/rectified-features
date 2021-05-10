@@ -47,7 +47,7 @@ Carl Toft, Daniyar Turmukhambetov, Torsten Sattler, Fredrik Kahl and Gabriel J. 
 
 Please cite the paper if you are using this dataset.
 
-The images, file pairs for evalation and ground truth poses for the 8 scenes are
+The images, file pairs for evaluation and ground truth poses for the 8 scenes are
 available at:
 ```
 https://storage.googleapis.com/niantic-lon-static/research/rectified-features/StrongViewpointChangesDataset/scene1.zip
