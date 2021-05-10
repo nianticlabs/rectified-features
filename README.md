@@ -4,7 +4,8 @@
 
 
 [Link to paper](https://arxiv.org/abs/2008.09497)  
-  
+[Link to supplementary pdf](https://storage.googleapis.com/niantic-lon-static/research/rectified-features/rectified-features-supplementary.pdf)
+
 
 <p align="center">
   <a href="https://storage.googleapis.com/niantic-lon-static/research/rectified-features/short-video.mp4">
@@ -20,7 +21,7 @@
 </p>
 
 
-**Code and Supplementary pdf is coming soon...**  
+**Code is coming soon...**  
 
 
 Good local features improve the robustness of many 3D relocalization and multi-view reconstruction pipelines. The problem is that viewing angle and distance severely impact the recognizability of a local feature. Attempts to improve appearance invariance by choosing better local feature points or by leveraging outside information, have come with pre-requisites that made some of them impractical. In this paper, we propose a surprisingly effective enhancement to local feature extraction, which improves matching.
