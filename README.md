@@ -20,7 +20,7 @@
 </p>
 
 
-**Supplementary pdf and dataset are coming soon...**  
+**Code and Supplementary pdf is coming soon...**  
 
 
 Good local features improve the robustness of many 3D relocalization and multi-view reconstruction pipelines. The problem is that viewing angle and distance severely impact the recognizability of a local feature. Attempts to improve appearance invariance by choosing better local feature points or by leveraging outside information, have come with pre-requisites that made some of them impractical. In this paper, we propose a surprisingly effective enhancement to local feature extraction, which improves matching.
@@ -36,6 +36,32 @@ We show that CNN-based depths inferred from single RGB images are quite helpful,
 </p>
 
 Our pipeline finds planar patches according to estimated depth, and extracts features from rectified views of these patches. Non-rectified features are also extracted from regions that do not belong to planar patches.
+
+## 💾 📸 Dataset
+
+[Dataset README](https://storage.googleapis.com/niantic-lon-static/research/rectified-features/StrongViewpointChangesDataset/README.txt)
+
+The "Strong Viewpoint Changes Dataset" is published as part of ECCV 2020 "Single-Image Depth Prediction Makes Feature Matching Easier" paper by 
+Carl Toft, Daniyar Turmukhambetov, Torsten Sattler, Fredrik Kahl and Gabriel J. Brostow.
+
+Please cite the paper if you are using this dataset.
+
+The images, file pairs for evalation and ground truth poses for the 8 scenes are
+available at:
+```
+https://storage.googleapis.com/niantic-lon-static/research/rectified-features/StrongViewpointChangesDataset/scene1.zip
+https://storage.googleapis.com/niantic-lon-static/research/rectified-features/StrongViewpointChangesDataset/scene2.zip
+https://storage.googleapis.com/niantic-lon-static/research/rectified-features/StrongViewpointChangesDataset/scene3.zip
+https://storage.googleapis.com/niantic-lon-static/research/rectified-features/StrongViewpointChangesDataset/scene4.zip
+https://storage.googleapis.com/niantic-lon-static/research/rectified-features/StrongViewpointChangesDataset/scene5.zip
+https://storage.googleapis.com/niantic-lon-static/research/rectified-features/StrongViewpointChangesDataset/scene6.zip
+https://storage.googleapis.com/niantic-lon-static/research/rectified-features/StrongViewpointChangesDataset/scene7.zip
+https://storage.googleapis.com/niantic-lon-static/research/rectified-features/StrongViewpointChangesDataset/scene8.zip
+```
+
+The dataset is published with Attribution 4.0 International (CC BY 4.0) License, see:
+https://storage.googleapis.com/niantic-lon-static/research/rectified-features/StrongViewpointChangesDataset/LICENSE.txt
+
 
 ## ✏️ 📄 Citation
 
