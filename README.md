@@ -51,12 +51,19 @@ The images, file pairs for evalation and ground truth poses for the 8 scenes are
 available at:
 ```
 https://storage.googleapis.com/niantic-lon-static/research/rectified-features/StrongViewpointChangesDataset/scene1.zip
+
 https://storage.googleapis.com/niantic-lon-static/research/rectified-features/StrongViewpointChangesDataset/scene2.zip
+
 https://storage.googleapis.com/niantic-lon-static/research/rectified-features/StrongViewpointChangesDataset/scene3.zip
+
 https://storage.googleapis.com/niantic-lon-static/research/rectified-features/StrongViewpointChangesDataset/scene4.zip
+
 https://storage.googleapis.com/niantic-lon-static/research/rectified-features/StrongViewpointChangesDataset/scene5.zip
+
 https://storage.googleapis.com/niantic-lon-static/research/rectified-features/StrongViewpointChangesDataset/scene6.zip
+
 https://storage.googleapis.com/niantic-lon-static/research/rectified-features/StrongViewpointChangesDataset/scene7.zip
+
 https://storage.googleapis.com/niantic-lon-static/research/rectified-features/StrongViewpointChangesDataset/scene8.zip
 ```
 
